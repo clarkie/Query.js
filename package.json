@@ -1,6 +1,6 @@
 {
   "name": "cf-query",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Use ColdFusion/Railo query JSON more easily",
   "main": "Query.js",
   "scripts": {
