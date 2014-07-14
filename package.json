@@ -1,0 +1,25 @@
+{
+  "name": "cf-query",
+  "version": "0.0.0",
+  "description": "Use ColdFusion/Railo query JSON more easily",
+  "main": "Query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clarkie/Query.js.git"
+  },
+  "keywords": [
+    "coldfusion",
+    "json",
+    "railo",
+    "cfml"
+  ],
+  "author": "Clarkie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkie/Query.js/issues"
+  },
+  "homepage": "https://github.com/clarkie/Query.js"
+}

@@ -44,3 +44,7 @@ function Query(json) {
 	};
 
 };
+
+modules.export = function(json) {
+	return new Query(json);
+}
