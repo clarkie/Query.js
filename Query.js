@@ -45,6 +45,6 @@ function Query(json) {
 
 };
 
-modules.export = function(json) {
+module.exports = function(json) {
 	return new Query(json);
 }
