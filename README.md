@@ -1,4 +1,4 @@
-Query.js [![NPM Version](https://badge.fury.io/js/cf-query.svg)](https://badge.fury.io/js/cf-query) [![Gittip](https://img.shields.io/gittip/clarkie.svg)](https://www.gittip.com/clarkie/)
+Query.js [![NPM Version](https://badge.fury.io/js/cf-query.svg)](https://badge.fury.io/js/cf-query) [![Gittip](https://img.shields.io/gittip/clarkie.svg)](https://www.gittip.com/clarkie/) [![NPM Dependencies](https://david-dm.org/clarkie/Query.js.png)](https://david-dm.org/clarkie/Query.js)
 ========
 
 Use ColdFusion/Railo query JSON more easily
