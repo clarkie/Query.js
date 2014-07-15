@@ -1,4 +1,4 @@
-Query.js
+Query.js [![NPM Version](https://badge.fury.io/js/cf-query.svg)](https://badge.fury.io/js/cf-query) [![Gittip](https://img.shields.io/gittip/clarkie.svg)](https://www.gittip.com/clarkie/)
 ========
 
 Use ColdFusion/Railo query JSON more easily
